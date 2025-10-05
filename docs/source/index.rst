@@ -17,5 +17,5 @@ Spatial Multi-Omics Imputation and Embedding with SpaMIE
    Installation
    Tutorial 1_data inputation and integration for simulation
 
-.. .. image:: ../Figures/Workflow.jpg
-..    :width: 1600 
+.. image:: ../figures/overview.jpg
+   :width: 1600 
