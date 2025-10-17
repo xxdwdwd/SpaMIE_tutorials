@@ -3,12 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-SpaMIE documentation
+SpaMIE: Spatial Multi-Omics Imputation and Embedding
 ====================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
 
 
 .. toctree::
@@ -23,5 +20,5 @@ documentation for details.
    Tutorial 5_data inputation and integration for MouseBrain
    Tutorial 6_data integration for MouseSpleen
 
-.. .. image:: ../Figures/Workflow.jpg
-..    :width: 1600 
+.. image:: ../figures/overview.jpg
+   :width: 1600 
