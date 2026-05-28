@@ -14,11 +14,12 @@ SpaMIE: Spatial Multi-Omics Imputation and Embedding
 
    Installation
    Tutorial 1_data inputation and integration for simulation
-   Tutorial 2_data inputation for Humanskin
-   Tutorial 3_data inputation and integration for MouseEmbryo
-   Tutorial 4_data inputation and integration for Humanlymph
-   Tutorial 5_data inputation and integration for MouseBrain
-   Tutorial 6_data integration for MouseSpleen
+   Tutorial 2_data inputation and integration for two batch simulation
+   Tutorial 3_data inputation for Humanskin
+   Tutorial 4_data inputation and integration for MouseEmbryo
+   Tutorial 5_data inputation and integration for Humanlymph
+   Tutorial 6_data inputation and integration for MouseBrain
+   Tutorial 7_data integration for MouseSpleen
 
 .. image:: ../figures/overview.jpg
    :width: 1600 
